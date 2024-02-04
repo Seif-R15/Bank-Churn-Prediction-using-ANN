@@ -3,4 +3,4 @@ Churn Prediction with Geodemographic Customer Segmentation using Deep Learning A
 
 ## 1 - Example from the Deploying code 
 
-![ANN_Ex.png](ANN_Example)
+![ANN_Example](ANN_Ex.png)
